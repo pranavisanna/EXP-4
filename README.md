@@ -51,17 +51,14 @@ Rectifier with filter
 <img width="567" height="293" alt="image" src="https://github.com/user-attachments/assets/c30c2d24-27b3-435b-9897-dac6cad2b3f1" />
 
 Rectifier without filter
-
-TABULAR COLUMN
-<img width="570" height="107" alt="image" src="https://github.com/user-attachments/assets/98e8ed58-c0d9-4b5f-8248-97eaeeb0d0dd" />
-
-Rectifier with filter
-<img width="563" height="295" alt="image" src="https://github.com/user-attachments/assets/0706a91e-a32f-4963-9bcc-0cf7074b2b63" />
+<img width="956" height="226" alt="image" src="https://github.com/user-attachments/assets/40db8dd5-128d-4b7d-8ba1-414ff5d53930" />
 
 
+WAVEFORM:half wave rectifier
+<img width="992" height="612" alt="image" src="https://github.com/user-attachments/assets/685547ee-4da7-4105-8dcf-00aa6b799e85" />
 
-WAVEFORM:
-
+FULL WAVE RECTIFIER
+<img width="987" height="561" alt="image" src="https://github.com/user-attachments/assets/ba606914-ae96-44b3-a6bb-38c1c97b2328" />
 
 RESULT:
 
